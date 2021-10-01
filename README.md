@@ -10,11 +10,15 @@ My journey in learning Spring Boot started here. I follow [this](https://spring.
 
 ## How to Build The Program
 
-TBD
+- Open a terminal
+- Change the working directory into the current project directory
+- Execute `./gradlew build` in your terminal
 
 ## How to Run The Program
 
-TBD
+- Open a terminal
+- Change the working directory into the current project directory
+- Execute `./gradlew bootRun` in your terminal
 
 ## How to Run The Tests
 
